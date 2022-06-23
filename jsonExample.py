@@ -4,4 +4,4 @@ from flask import jsonify
 def hello():
     return jsonify({'name':'Jimit',
                     'address':'Kenya'})
-    pass
+    

@@ -1,0 +1,16 @@
+C:\Users\Designer\Desktop\recv>git init
+
+
+C:\Users\Designer\Desktop\recv>git add .
+
+C:\Users\Designer\Desktop\recv>git commit -m "My first repo today"
+
+
+C:\Users\Designer\Desktop\recv>git status
+
+
+C:\Users\Designer\Desktop\recv>git push -u origin main
+.
+
+C:\Users\Designer\Desktop\recv>
+
