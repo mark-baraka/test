@@ -1,0 +1,9 @@
+create Table students(
+    id int not null,
+    student_name varchar(50)not null,
+    email varchar(250) not null,
+    phone_number varchar(15) null,
+   primary key (id));
+INSERT INTO students(id,student_name, email,phone_number)
+values (100,'zhhap','piia','02998877');
+select * from students

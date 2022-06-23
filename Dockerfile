@@ -7,4 +7,4 @@ WORKDIR /app
 #copy project
 COPY . /app
 
-CMD ["python", "mark.py"] 
+CMD ["python", "markinstall .py"] 
